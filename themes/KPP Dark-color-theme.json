@@ -145,7 +145,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#BBBBBB4D",
+				"foreground": "#ffffff63",
 				"fontStyle": "italic"
 			}
 		},
@@ -176,7 +176,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#E95678E6",
+				"foreground": "#a6e3a1",
 				"fontStyle": "normal"
 			}
 		},
@@ -386,7 +386,7 @@
 		{
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#E95678B3",
+				"foreground": "#89b4fa",
 				"fontStyle": "normal"
 			}
 		},
