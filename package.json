@@ -1,0 +1,28 @@
+{
+  "name": "kpp-dark",
+  "displayName": "kpp-dark",
+  "description": "horizon theme with a darker background",
+  "version": "0.0.1",
+  "publisher": "zacharygranger",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "KPP"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "KPP Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KPP Dark-color-theme.json"
+      }
+    ]
+  }
+}
